@@ -38,6 +38,20 @@ nav{
     border-radius: 75px;
     width: 150px;
     border: solid white;
-    box-shadow: 3px 3px 6px black
-    ;
+    box-shadow: 3px 3px 6px black;
+}
+main {
+  border: solid black;
+  border-radius: 75px;
+  width: 80%;
+  position: absolute;
+  left: 150px;
+  top: 425px;
+}
+
+.titre {
+  margin-left: 400px;
+}
+.parent{
+  padding-left: 20px;
 }

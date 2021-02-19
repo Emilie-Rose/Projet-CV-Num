@@ -12,7 +12,7 @@ nav ul{
 
 nav a{
   text-decoration: none;
-    color: purple;
+    color: rgb(44, 8, 44);
 }
 
 nav a:hover{
@@ -36,10 +36,11 @@ nav{
 
 .container1 img{
     border-radius: 75px;
-    width: 150px;
+    width: 125px;
     border: solid white;
     box-shadow: 3px 3px 6px black;
 }
+
 main {
   border: solid black;
   border-radius: 75px;
@@ -52,6 +53,8 @@ main {
 .titre {
   margin-left: 400px;
 }
-.parent{
+
+.parent {
   padding-left: 20px;
+  position: absolute;
 }

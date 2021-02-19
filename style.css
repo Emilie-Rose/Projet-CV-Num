@@ -24,7 +24,7 @@ nav a:hover{
 }
 
 nav{
-    display: flex; 
+    display: flex;
     justify-content: space-around;
 }
 
@@ -51,7 +51,7 @@ main {
 }
 
 .titre {
-  margin-left: 400px;
+  margin-left: 300px;
 }
 
 .parent {
